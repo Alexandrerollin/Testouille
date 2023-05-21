@@ -1,0 +1,48 @@
+/* Elements sélecteurs */
+
+nav {
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin: 2rem;
+}
+
+body {
+    text-align: center;
+}
+
+/* Class sélecteurs */
+
+/* ID sélecteurs */
+#logo {
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+/* nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;  aligne les éléments du menu horizontalement 
+  }
+  
+  nav li {
+    display: inline-block; aligne les éléments du menu horizontalement 
+    margin-right: 1rem; ajoute un espacement entre les éléments du menu 
+  }
+  
+  nav li:last-child {
+    margin-right: 0; retire l'espacement du dernier élément du menu
+  } */
+  
